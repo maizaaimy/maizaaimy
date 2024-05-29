@@ -1,4 +1,4 @@
-Hii! Boas vindas ao meu perfil 
+BOAS VINDAS AO MEU PERFIL!
 
 - 😄 Sou uma estudante do alura
 - ⚡Estou desenvolvendo na linguagem JavaScript 
