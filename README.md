@@ -8,5 +8,3 @@
 
   **VOCÊ PODE ENTRAR EM CONTATO COMIGO:**
 - 00001098230991ap@al.educacao.sp.gov.br
-
-  
